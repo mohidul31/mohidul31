@@ -1,1 +1,1 @@
-[![Mohidul's GitHub stats](https://github-readme-stats.vercel.app/api?username=mohidul31)](https://github.com/mohidul31/github-readme-stats)
+[![Mohidul's GitHub stats](https://github-readme-stats.vercel.app/api?username=mohidul31&count_private=true&show_icons=true&theme=radical)]
